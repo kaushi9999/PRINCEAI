@@ -12,17 +12,17 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put your session ID here in the box below",
+      "description": "Prince~scl/fi/cjg7tjivgu4f7dgve2ti5/iiT1sCaQhE.json?rlkey=gb59t0osjd8zwya2dqyzrw8zo&dl=0",
       "required": true,
       "value": ""
     },
     "BOT_NAME": {
-      "description": "put your BOT a name",
+      "description": "NIMA",
       "required": true,
       "value": "PRINCE-BOT"
     },
     "OWNER_NUMBER": {
-      "description": "put your Number and name for Owner",
+      "description": "94769871891 ",
       "required": true,
       "value": "639129985130,DEVELOPER"
     },
@@ -32,7 +32,7 @@
       "value": "🤍"
     },
     "MODE": {
-      "description": "choose bot mode public or private",
+      "description": " public ",
       "required": true,
       "value": "public"
     },
@@ -47,17 +47,17 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
+      "description": ".",
       "required": false,
       "value": ""
     },
     "AlwaysOnline": {
-      "description": "make it true to be always online",
+      "description": "always online",
       "required": false,
       "value": "false" 
     },
     "antidelete": {
-      "description": "Set 'private' to forward deleted messages only from private chats, 'all' to forward from both private and group chats, or 'false' to disable this feature.",
+      "description": " all.",
       "required": false,
       "value": "all"
     },
@@ -107,7 +107,7 @@
       "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
     },
     "STATUS_MSG": {
-      "description": "Status reply msg",
+      "description": "YOUR STETUS SEEN BY AKALANKA ",
       "required": false,
       "value": "Your Status has been seen by Prince bot"
     },
